@@ -2,7 +2,7 @@
 title: Rules and tips
 layout: default
 parent: index
-nav_order: 2
+nav_order: 3
 ---
 # General
 * You can move the Start instruction wherever you want.

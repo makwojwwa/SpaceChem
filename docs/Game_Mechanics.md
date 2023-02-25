@@ -2,7 +2,7 @@
 title: Game mechanics
 layout: default
 parent: index
-nav_order: 1
+nav_order: 2
 ---
 Game Mechanics <!-- omit in TOC -->
 =

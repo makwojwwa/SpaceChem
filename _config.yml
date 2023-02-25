@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Space Chem - a visual programming game
+description: Everything you need to know if you want to beat SpaceChem
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://makwojwwa.github.io/SpaceChem
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/makwojwwa/SpaceChem

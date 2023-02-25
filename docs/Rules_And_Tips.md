@@ -1,7 +1,6 @@
 ---
 title: Rules and tips
 layout: default
-parent: index
 nav_order: 3
 ---
 # General
